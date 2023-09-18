@@ -1,0 +1,146 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,##### PORTUGAL #####
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2430.ts
+#EXTINF:-1,PT: TVCine ACTION HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2431.ts
+#EXTINF:-1,PT: TVCine EDITION HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2432.ts
+#EXTINF:-1,PT: TVCine EMOTION HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2433.ts
+#EXTINF:-1,PT: TVCine TOP HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2434.ts
+#EXTINF:-1,PT: NOS Studios
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2435.ts
+#EXTINF:-1,PT: FOX HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2436.ts
+#EXTINF:-1,PT: FOX MOVIES HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2437.ts
+#EXTINF:-1,PT: FOX COMEDY HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2438.ts
+#EXTINF:-1,PT: FOX CRIME HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2439.ts
+#EXTINF:-1,PT: FOX LIFE HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2440.ts
+#EXTINF:-1,PT: AMC HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2441.ts
+#EXTINF:-1,PT: AXN Movies HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2442.ts
+#EXTINF:-1,PT: AXN HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2443.ts
+#EXTINF:-1,PT: AXN WHITE HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2444.ts
+#EXTINF:-1,PT: CINEMUNDO
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2445.ts
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2446.ts
+#EXTINF:-1,PT: SYFY
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2447.ts
+#EXTINF:-1,#### PORTUGAL ENTERTAINMENT ####
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2448.ts
+#EXTINF:-1,PT: RTP 1 HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2449.ts
+#EXTINF:-1,PT: RTP 2
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2450.ts
+#EXTINF:-1,PT: RTP 3
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2451.ts
+#EXTINF:-1,PT: TVI 24
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2452.ts
+#EXTINF:-1,PT: TVI Fic
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2453.ts
+#EXTINF:-1,PT: TVI HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2454.ts
+#EXTINF:-1,PT: TVI REALITY
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2455.ts
+#EXTINF:-1,PT: VH1
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2456.ts
+#EXTINF:-1,PT: SIC Caras
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2457.ts
+#EXTINF:-1,PT: SIC HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2458.ts
+#EXTINF:-1,PT: SIC K
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2459.ts
+#EXTINF:-1,PT: SIC MULHER
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2460.ts
+#EXTINF:-1,PT: SIC NOTICIAS HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2461.ts
+#EXTINF:-1,PT: SIC RADICAL
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2462.ts
+#EXTINF:-1,PT: A BOLA TV
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2463.ts
+#EXTINF:-1,PT: AFRO MUSIC
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2464.ts
+#EXTINF:-1,PT: ARTV
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2465.ts
+#EXTINF:-1,PT: CANAL Q
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2466.ts
+#EXTINF:-1,PT: CBS REALITY
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2467.ts
+#EXTINF:-1,PT: CM TV
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2468.ts
+#EXTINF:-1,PT: E! Entertainment
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2469.ts
+#EXTINF:-1,PT: FUEL TV
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2470.ts
+#EXTINF:-1,PT: MCM POP
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2471.ts
+#EXTINF:-1,PT: MTV PORTUGAL
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2472.ts
+#EXTINF:-1,PT: RTP AFRICA
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2474.ts
+#EXTINF:-1,PT: RTP ACORES
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2475.ts
+#EXTINF:-1,PT: RTP MEMÓRIA
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2476.ts
+#EXTINF:-1,PT: TLC
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2477.ts
+#EXTINF:-1,PT: TOROS TV
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2478.ts
+#EXTINF:-1,PT: Trace Urban HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2479.ts
+#EXTINF:-1,PT: TV GLOBO
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2480.ts
+#EXTINF:-1,PT: TV Globo NOW
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2481.ts
+#EXTINF:-1,##### PORTUGAL KIDS #####
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2482.ts
+#EXTINF:-1,PT: BABY TV
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2483.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2484.ts
+#EXTINF:-1,PT: CARTOON  NETWORK
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2485.ts
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2486.ts
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2487.ts
+#EXTINF:-1,PT: JIM JAM
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2488.ts
+#EXTINF:-1,PT: NICKELODEON
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2489.ts
+#EXTINF:-1,PT: Nick Jr.
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2490.ts
+#EXTINF:-1,PT: Panda Biggs
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2491.ts
+#EXTINF:-1,#### PORTUGAL DOCUMENTARY ####
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2492.ts
+#EXTINF:-1,PT:  Historia
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2493.ts
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2494.ts
+#EXTINF:-1,PT: CASA & PESCA
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2495.ts
+#EXTINF:-1,PT: CRIME INVISTIGATION
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2496.ts
+#EXTINF:-1,PT: Discovery Channel HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2497.ts
+#EXTINF:-1,PT: Nat Geo WILD HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2498.ts
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2499.ts
+#EXTINF:-1,PT: ODISSEIA
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2500.ts
+#EXTINF:-1,PT: Travel Channel HD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2501.ts
+#EXTINF:-1,PT: TV RECORD
+http://tvip.world:80/PORTUGAL/KkGnrekprv/2502.ts
